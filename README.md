@@ -1,0 +1,2 @@
+# NinjaGamerBot
+Discord Bot
